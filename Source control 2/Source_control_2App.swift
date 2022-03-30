@@ -11,7 +11,7 @@ import SwiftUI
 struct Source_control_2App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView() //fixed bug b
         }
     }
 }
